@@ -17,4 +17,5 @@ Full Stack Developer | React | TypeScript | Node.js | NestJS
 🔹 SkillSprint – micro learning platform  
 
 ## Connect
-LinkedIn: linkedin.com/in/chetanms2001
+LinkedIn: 
+[linkedin.com/in/chetanms2001](https://www.linkedin.com/in/chetanms2001/)
