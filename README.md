@@ -4,7 +4,6 @@ Full Stack Developer | React | TypeScript | Node.js | NestJS
 
 💻 2+ years building scalable fintech and web applications  
 🚀 Focus: performance optimization, scalable backend systems  
-📍 Pune, India
 
 ## Tech Stack
 - Frontend: React, TypeScript, Redux
